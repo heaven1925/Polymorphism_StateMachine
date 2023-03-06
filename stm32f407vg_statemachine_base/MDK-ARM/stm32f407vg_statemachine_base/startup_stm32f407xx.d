@@ -1,0 +1,1 @@
+stm32f407vg_statemachine_base\startup_stm32f407xx.o: startup_stm32f407xx.s
